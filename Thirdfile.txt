@@ -1,0 +1,3 @@
+This is the third file and available only in server
+
+Now get this file to local repository
